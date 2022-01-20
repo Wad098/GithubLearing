@@ -41,9 +41,8 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
       <td align="center"><a href="https://l1nna.com/"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Yucan li</b></sub></a></td>
       <td align="center"><a href="https://github.com/leordsong"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Yiming Zheng</b></sub></a></td>
       <td align="center"><a href="https://github.com/reetamtaj"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Yuzhe He</b></sub></a></td>
-      <td align="center"><a href="https://github.com/charasyn"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Cooper Harasyn</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=charasyn" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=charasyn" title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/THardy98"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Thomas Hardy</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=THardy98" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=THardy98" title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/aubreymcleod"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>aubreymcleod</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=aubreymcleod" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=aubreymcleod" title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/adamhirani"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Adam</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=adamhirani" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=adamhirani" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://l1nna.com/"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Yucan li</b></sub></a></td>
+      <td align="center"><a href="https://github.com/leordsong"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Yiming Zheng</b></sub></a></td>
+      <td align="center"><a href="https://github.com/reetamtaj"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Yuzhe He</b></sub></a></td>
     </tr>
   </table>
