@@ -36,3 +36,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<table>
+    <tr>
+      <td align="center"><a href="https://l1nna.com/"><img src="" width="100px;" alt=""/><br /><sub><b>Yucan li</b></sub></a></td>
+      <td align="center"><a href="https://github.com/leordsong"><img src="" width="100px;" alt=""/><br /><sub><b>Yiming Zheng</b></sub></a></td>
+      <td align="center"><a href="https://github.com/reetamtaj"><img src="" width="100px;" alt=""/><br /><sub><b>Yuzhe He</b></sub></a></td>
+      <td align="center"><a href="https://github.com/charasyn"><img src="" width="100px;" alt=""/><br /><sub><b>Cooper Harasyn</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=charasyn" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=charasyn" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/THardy98"><img src="" width="100px;" alt=""/><br /><sub><b>Thomas Hardy</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=THardy98" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=THardy98" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/aubreymcleod"><img src="" width="100px;" alt=""/><br /><sub><b>aubreymcleod</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=aubreymcleod" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=aubreymcleod" title="Documentation">📖</a></td>
+      <td align="center"><a href="https://github.com/adamhirani"><img src="" width="100px;" alt=""/><br /><sub><b>Adam</b></sub></a><br /><a href="https://github.com/CISC-CMPE-327/Information/commits?author=adamhirani" title="Code">💻</a> <a href="https://github.com/CISC-CMPE-327/Information/commits?author=adamhirani" title="Documentation">📖</a></td>
+    </tr>
+  </table>
