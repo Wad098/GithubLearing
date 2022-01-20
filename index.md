@@ -38,10 +38,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 <table>
     <tr>
-      <td align="center"><a href="https://github.com/BlairLi"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Yucan li</b></sub></a></td><br />
-      <a href = "mailto:abc@example.com?subject = Feedback&body = Message">
-        Send Feedback
-        </a>
+      <td align="center"><a href="https://github.com/BlairLi"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Yucan li</b></sub></a></td><br /><a href =   "mailto:abc@example.com?subject = Feedback&body = Message">Send Feedback</a>
       <td align="center"><a href="https://github.com/Wad098"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Yiming Zheng</b></sub></a></td>
       <td align="center"><a href="https://github.com/hrzzdhyz"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Yuzhe He</b></sub></a></td>
       <td align="center"><a href="https://github.com/BrightAurora138"><img src="touxiang.jpg" width="100px;" alt=""/><br /><sub><b>Wenran Hou</b></sub></a></td>
