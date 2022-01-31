@@ -6,7 +6,44 @@ You can use the [editor on GitHub](https://github.com/Wad098/project.github.io/e
 ![This is an image](https://github.com/Wad098/CISC-322_Group20/blob/gh-pages/233333.jpg)
 
 ### Markdown
-
+<div id="blog" class="blog-section">
+		   <div class="container">
+		         <h3 class="tittle">Blogs</h3>
+				 <div class="blog">
+				   <div class="col-md-4 blog-text">
+					   <h5>Sun 30 Aug, 2015</h5>
+					   <a href="single.html"><h4>EXCEPTEUR SINT OCCAECAT CUPIDATAT NON</h4></a>
+					   <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+				   </div>
+					<div class="col-md-8 welcome-img">
+					 <a href="single.html" class="mask"><img src="images/b1.jpg" alt="image" class="img-responsive zoom-img"></a>
+					</div>
+				   <div class="clearfix"> </div>
+			   </div>
+			    <div class="blog">
+				 <div class="col-md-4 blog-text two">
+					   <h5>Thu 15 Sep, 2015</h5>
+					  <a href="single.html"><h4>LOREM IPSUM DOLOR SIT AMET CONSE</h4></a>
+					   <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+				   </div>
+					<div class="col-md-8 blog-img two">
+					 <a href="single.html" class="mask"><img src="images/b2.jpg" alt="image" class="img-responsive zoom-img"></a>
+					</div>
+				   <div class="clearfix"> </div>
+			   </div> 
+			    <div class="blog">
+				   <div class="col-md-4 blog-text">
+					   <h5>Fri 14 Dec, 2015</h5>
+					   <a href="single.html"><h4>EXCEPTEUR SINT OCCAECAT CUPIDATAT NON</h4></a>
+					   <p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+				   </div>
+					<div class="col-md-8 welcome-img">
+					 <a href="single.html" class="mask"><img src="images/b3.jpg" alt="image" class="img-responsive zoom-img"></a>
+					</div>
+				   <div class="clearfix"> </div>
+			   </div>
+		</div>
+	</div>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
